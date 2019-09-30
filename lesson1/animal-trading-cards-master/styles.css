@@ -1,0 +1,38 @@
+/* add your CSS here */
+
+#intro {
+  font-style: italic;
+
+}
+
+li {
+  list-style: none;
+
+}
+
+.topic {
+  font-weight: bold;
+}
+
+.container {
+  width: 300px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  padding: 15px;
+
+}
+
+.sub-container{
+  margin-top: 20px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  padding: 15px;
+
+}
+
+ul {
+  display: inline;
+
+}
