@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript/course-JS-and-the-DOM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript/project-pixel-art-maker-starter" vcs="Git" />
   </component>
 </project>
